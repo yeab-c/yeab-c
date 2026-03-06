@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub! I’m Yeab 👋</h1>
 <h3 align="center">
-Software Engineering Student | Builder | Curious Problem Solver
+Software Engineer | Builder | Curious Problem Solver
 </h3>
 
 <p align="center">
