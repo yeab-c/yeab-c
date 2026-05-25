@@ -1,75 +1,95 @@
-<h1 align="center">Welcome to my GitHub! I’m Yeab 👋</h1>
-<h3 align="center">
-Software Engineer | Builder | Curious Problem Solver
-</h3>
+<h1 align="center">Yeab</h1>
 
 <p align="center">
-I enjoy building things with code, exploring new technologies, and learning continuously.
-Especially ideas that can shape the future.
+  Software Engineering Student & Builder
 </p>
-
----
-
-<h3 align="left"> About Me</h3>
-
--  Software Engineering student & self-taught developer  
--  Open to learning and working on *anything tech-related*, especially future-impacting ideas  
--  I believe there is **no useless knowledge**. Every concept teaches something  
--  My real goal: **be better than I was yesterday**
-
----
-
-
-
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yeab-chanyalew/" target="_blank">
-<img align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-     alt="LinkedIn"
-     height="30"
-     width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left"> Languages and Tools</h3>
-
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-</p>
-
----
 
 <p align="center">
-<i>“Always improving. Always learning.”</i>
+  <a href="https://www.linkedin.com/in/yeab-chanyalew-96504037a">LinkedIn</a>
 </p>
 
+---
+
+### About
+
+I am a software engineering student who builds across the stack. My interests span web systems, mobile applications, machine learning, and the craft of competitive programming. I learn by doing, and I do by building.
+
+---
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="28" height="28" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28" height="28" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="SQL"/>
+</p>
+
+---
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="28" height="28" alt="Rails"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28" height="28" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28" height="28" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis"/>
+</p>
+
+---
+
+### Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" height="28" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" height="28" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" height="28" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman"/>
+</p>
+
+---
+
+### Domains
+
+Web Development | Mobile Development | AI / Machine Learning | Data Science | Competitive Programming | UI/UX Design
+
+---
+
+### Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeab-c&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeab-c&hide_border=true&theme=graywhite" alt="GitHub Streak"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab-c&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeab-c&bg_color=ffffff&color=333333&line=333333&point=333333&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
