@@ -76,20 +76,3 @@ Web Development | Mobile Development | AI / Machine Learning | Data Science | Co
 
 ---
 
-### Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeab-c&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeab-c&hide_border=true&theme=graywhite" alt="GitHub Streak"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab-c&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeab-c&bg_color=ffffff&color=333333&line=333333&point=333333&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
