@@ -1,78 +1,40 @@
-<h1 align="center">Yeab</h1>
+# Hey, I'm Yeab
 
-<p align="center">
-  Software Engineering Student & Builder
-</p>
+I'm a software engineering student and Python developer.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yeab-chanyalew-96504037a">LinkedIn</a>
-</p>
+I like taking an idea, figuring out how it could work, and turning it into something real. Right now, I'm mainly building small Python programs that automate things and solve problems I run into.
 
----
+I'm focused on mastering Python while exploring backend development, AI/ML, data, systems programming, and algorithms.
 
-### About
+I don't really want to stay in one box. I'm interested in different areas of computing, especially when they give me something new to understand or build.
 
-I am a software engineering student who builds across the stack. My interests span web systems, mobile applications, machine learning, and the craft of competitive programming. I learn by doing, and I do by building.
+### What I use
 
----
+**Comfortable**
 
-### Languages
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" /></a> <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="45" /></a>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="28" height="28" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28" height="28" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="SQL"/>
-</p>
+**Exploring**
 
----
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="45" /></a> <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="45" /></a>
 
-### Frameworks & Libraries
+**Built with**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="28" height="28" alt="Rails"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28" height="28" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28" height="28" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis"/>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript,typescript" height="45" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react,nextjs" height="45" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45" /></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" height="45" /></a>
 
----
+### Things I build
 
-### Tools & Platforms
+* Python automation tools
+* Backend and web applications
+* AI-powered applications
+* Data-driven projects
+* Small experiments and unusual ideas
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" height="28" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" height="28" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" height="28" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman"/>
-</p>
+### A few things about me
 
----
-
-### Domains
-
-Web Development | Mobile Development | AI / Machine Learning | Data Science | Competitive Programming | UI/UX Design
-
----
+* I learn by building.
+* I like understanding what's happening underneath the abstractions.
+* I enjoy difficult problems and figuring things out on my own.
+* I'm curious about a lot of different areas of computing.
+* If I have an idea, I usually want to see if I can actually make it work.
 
