@@ -91,8 +91,8 @@ I don't want to stay in one box. I'm interested in different areas of computing,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160" />
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeab-c&show_icons=true&theme=dark&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com?user=yeab-c&theme=dark&hide_border=true" height="160" />
 
 </div>
 
@@ -102,6 +102,6 @@ I don't want to stay in one box. I'm interested in different areas of computing,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeab-c&theme=react-dark&hide_border=true" width="100%" />
 
 </div>
